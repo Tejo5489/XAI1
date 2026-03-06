@@ -37,7 +37,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # --- API & FIREBASE SETUP ---
-GEMINI_API_KEY = "" # System handles this at runtime
+GEMINI_API_KEY = "AIzaSyAOz8ymeNiE6y4cWsaTBgOvmZU5p868MW8" # System handles this at runtime
 app_id = "xai-pro-elite-v3"
 
 # Initialize Firebase
