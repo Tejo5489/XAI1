@@ -1,0 +1,6 @@
+streamlit
+xgboost
+shap
+pandas
+firebase-admin
+requests
