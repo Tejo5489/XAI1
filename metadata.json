@@ -1,0 +1,6 @@
+{
+  "name": "XAI Patient Safety Dashboard",
+  "description": "Clinical telemetry deterioration risk analysis using Random Forest, SHAP, and LIME explainability with what-if simulation and Gemini AI safety assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
